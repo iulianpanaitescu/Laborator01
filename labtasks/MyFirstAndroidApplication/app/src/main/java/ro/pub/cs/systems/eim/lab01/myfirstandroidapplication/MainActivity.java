@@ -10,6 +10,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     final private static long TRANSPARENCY_EFFECT_DURATION = 5000;
+    //dfddsffdfdf
 
     private ButtonClickListener buttonClickListener = new ButtonClickListener();
 
